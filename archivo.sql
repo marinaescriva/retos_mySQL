@@ -1,7 +1,7 @@
 
 /*RETO 0
 Establece las relaciones correspondientes en nuestro diseño de la librería online
-
+*/
 
 /* RETO1
  Aplicación de Gestión de Tareas:
@@ -13,6 +13,11 @@ tareas como completadas. ¿Cuáles serían las entidades principales?
 CREATE DATABASE reto_1
 
 USE reto_1
+
+CREATE TABLE users(
+
+    
+)
 
 
 
