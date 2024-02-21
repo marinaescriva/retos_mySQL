@@ -1,5 +1,6 @@
 
 /*RETO 0
+Establece las relaciones correspondientes en nuestro diseño de la librería online
 
 
 /* RETO1
